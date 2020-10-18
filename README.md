@@ -1,2 +1,2 @@
 # PlaneWar
- a simple game based on Qt
+ 一个基于C++ Qt的简单小游戏，后续会持续更新文档和注释
